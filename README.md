@@ -1,2 +1,3 @@
 # DemoOfNotes
-v1.0 is a sample demo without database.
+* v1.0 实现了简单的功能,没有做好数据持久化
+* v2.0 使用了第三方库FMDB储存数据。添加了搜索功能
